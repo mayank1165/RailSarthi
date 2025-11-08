@@ -36,10 +36,5 @@ Dedicated to providing a seamless and informative travel experience, Rail Sarthi
 <br>
 <br>
 
-## Contact
-For any queries or suggestions, feel free to reach out:<br>
-Email: smsmadhavsharma@gmail.com<br>
-GitHub: Madhavsharmaa
-
 
 
